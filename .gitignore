@@ -1,0 +1,6 @@
+# Theme customization 
+/custom
+
+# System files
+.DS_Store
+Thumbs.db
