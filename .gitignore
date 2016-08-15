@@ -1,5 +1,7 @@
-# Theme customization 
-/custom
+# Theme customization
+# Don't put generated files in repository
+/custom/config
+/custom/css-compiled
 
 # System files
 .DS_Store
