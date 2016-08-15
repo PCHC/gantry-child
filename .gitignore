@@ -2,6 +2,8 @@
 # Don't put generated files in repository
 /custom/config
 /custom/css-compiled
+custom/blog*/*
+!custom/blog*/scss/
 
 # System files
 .DS_Store
