@@ -11,6 +11,10 @@
 //     @include transform(translateY(-100%));
 // }
 
+.entry-content a {
+  font-weight: 600;
+}
+
 #g-navigation, .g-offcanvas-open #g-navigation {
     position: fixed;
     width: 100%;
